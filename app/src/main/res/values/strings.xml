@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="temp">Temperature: </string>
+    <string name="pressure">Pressure: </string>
+    <string name="humidity">Humidity: </string>
+    <string name="temp_max">Max Temperature: </string>
+    <string name="temp_min">Min Temperature: </string>
+</resources>
